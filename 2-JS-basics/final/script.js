@@ -24,7 +24,6 @@ var if = 23;
 */
 
 
-
 /*****************************
 * Variable mutation and type coercion
 */
